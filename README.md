@@ -7,4 +7,4 @@ The objective of this project is to perform a descriptive analysis to plan for t
 # Data
 The data used constituted of the following tables:
 
-GameCo Sales by Market
+Video game sales
