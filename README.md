@@ -5,6 +5,6 @@ Career Foundry Data Analysis portfolio project. GameCo is an international gamin
 The objective of this project is to perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market.
 
 # Data
-The data used constituted of the following tables:
+The data sets commit information on the following parameters:
 
 Video game sales
